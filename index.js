@@ -14,6 +14,7 @@ var ITEM_FIELDS = [
   'pubDate',
   'author',
   'content:encoded',
+  'pubdate',
 ]
 
 var stripHtml = function(str) {
